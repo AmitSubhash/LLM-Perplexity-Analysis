@@ -1,4 +1,4 @@
-# Language-Model-Perplexity-and-Evidence-Analysis
+# Perplexity-Analysis
 Requirements
 
 Python 3.x
